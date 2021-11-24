@@ -11,4 +11,4 @@ manifest file muss manuell erstellt werden?
 Konfiguration gemäß Dokumentation:
 https://www.jetbrains.com/help/idea/junit.html
 
-Änderungen an pom.xml --> Einfügen der Dependancy für jUnit 5
+Änderungen an pom.xml --> Einfügen der Dependency für jUnit 5
