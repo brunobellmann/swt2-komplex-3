@@ -20,4 +20,4 @@ prüfen beide Run-Code auf Testcodeabdeckung
 ##Fehler:
 - Semikolon auf Zeile 34
 - hasNext prüft auf current und nicht auf next Zeile 54
-- 
+- Erster Aufruf von Iter.getNext() gibt nun tatsächlich das erste Element zurück
