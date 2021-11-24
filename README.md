@@ -15,3 +15,9 @@ https://www.jetbrains.com/help/idea/junit.html
 
 ##Aufgabe 5:
 prüfen beide Run-Code auf Testcodeabdeckung
+
+
+##Fehler:
+- Semikolon auf Zeile 34
+- hasNext prüft auf current und nicht auf next Zeile 54
+- 
