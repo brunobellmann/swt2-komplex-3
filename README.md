@@ -34,6 +34,6 @@ Genutzte IDE: IntelliJ IDEA
 
 ## Aufgabe 8:
 
-Variables View mit einer Bsp.Liste mit 4 Elementen ("a", "b", "c", "d"):
+Variables View mit einer Beispielliste mit 4 Elementen ("a", "b", "c", "d"):
 
 ![](Variables_View.png)
