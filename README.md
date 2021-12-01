@@ -11,12 +11,15 @@ manifest file muss manuell erstellt werden?
 Konfiguration gemäß Dokumentation:
 https://www.jetbrains.com/help/idea/junit.html
 
-Änderungen an pom.xml --> Einfügen der Dependency für jUnit 5
-Erstellen eines Test-Ordners
-Testordner als Test Source Root markieren
+-Änderungen an pom.xml --> Einfügen der Dependency für jUnit 5
+-Erstellen eines Test-Ordners
+-Testordner als Test Source Root markieren
 
 ##Aufgabe 5:
-prüfen beide Run-Code auf Testcodeabdeckung
+
+-In der Testkonfiguration>>Code Coverage>>Jacoco
+  
+-prüfen beide Run-Code auf Testcodeabdeckung
 
 
 ##Fehler:
