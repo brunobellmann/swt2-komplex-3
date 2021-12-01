@@ -8,7 +8,7 @@ Genutzte IDE: IntelliJ IDEA
 
 ## Aufgabe 4:
 - Konfiguration gemäß Dokumentation: https://www.jetbrains.com/help/idea/junit.html
-- Änderungen an pom.xml --> Einfügen der Dependency für jUnit 5
+- Änderungen an pom.xml --> Einfügen der Dependency für jUnit 5 und Assertj
 - Erstellen eines Test-Ordners
 - Testordner als Test Source Root markieren
 
